@@ -7,3 +7,4 @@ The project consists of the following components:
 3. Data cleaning and visualization (using simple Python functions and viz library)
 4. Storing the data (including extracted and cleansed skills) in a Google Big Query Database (using GBQ Pandas library)
 5. The end destination is a Tableau dashboard that shows the most in-demand skills for a given role in Singapore. Since this step cannot be done using Tableau's Public version, the dashboard is not included in this repository. But below image (created using Python Matplotlib) shows the top 10 skills for a Data Engineer role in Singapore.
+![Top in-demand DE skills](output.png)
